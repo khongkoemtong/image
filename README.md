@@ -1,2 +1,2 @@
 hello bro 
-![hellobro]('/image.png')
+![hellobro]('./image.png')
